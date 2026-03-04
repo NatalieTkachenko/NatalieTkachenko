@@ -33,6 +33,27 @@ LinkedIn: https://www.linkedin.com/in/natalie-tkachenko-/
 Telegram: @Natalie_Tkachenko
 Email:    tkachenko.nataliya83@gmail.com
 
+<table>
+  <tr>
+    <td align="center">
+      <b>LinkedIn</b><br>
+      <a href="https://linkedin.com/in/yourprofile">Nataliia Tkachenko</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Email</b><br>
+      your.email@gmail.com
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>GitHub</b><br>
+      <a href="https://github.com/NatalieTkachenko">@NatalieTkachenko</a>
+    </td>
+  </tr>
+</table>
+
 
 
 
