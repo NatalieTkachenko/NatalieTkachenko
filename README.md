@@ -37,7 +37,7 @@ Email:    tkachenko.nataliya83@gmail.com
   <tr>
     <td><b>LinkedIn</b></td>
     <td>
-      <a href="https://linkedin.com/in/yourprofile">
+      <a href="https://www.linkedin.com/in/natalie-tkachenko-/">
         linkedin.com/in/yourprofile
       </a>
     </td>
@@ -46,8 +46,8 @@ Email:    tkachenko.nataliya83@gmail.com
   <tr>
     <td><b>Telegram</b></td>
     <td>
-      <a href="https://t.me/yourusername">
-        @yourusername
+      <a href="https://t.me/Natalie_Tkachenko">
+        @Natalie_Tkachenko
       </a>
     </td>
   </tr>
@@ -55,7 +55,7 @@ Email:    tkachenko.nataliya83@gmail.com
   <tr>
     <td><b>Email</b></td>
     <td>
-      your.email@gmail.com
+      tkachenko.nataliya83@gmail.com
     </td>
   </tr>
 </table>
