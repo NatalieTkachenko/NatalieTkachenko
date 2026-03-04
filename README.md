@@ -29,10 +29,6 @@ Tools:
 Git • GitHub • Swagger • Postman
 
 #### Contacts
-LinkedIn: https://www.linkedin.com/in/natalie-tkachenko-/
-Telegram: @Natalie_Tkachenko
-Email:    tkachenko.nataliya83@gmail.com
-
 <table>
   <tr>
     <td><b>LinkedIn</b></td>
@@ -59,6 +55,8 @@ Email:    tkachenko.nataliya83@gmail.com
     </td>
   </tr>
 </table>
+
+<a href="https://u8views.com/github/NatalieTkachenko"><img src="https://u8views.com/api/v1/github/profiles/98707407/views/day-week-month-total-count.svg"></a>
 
 
 
