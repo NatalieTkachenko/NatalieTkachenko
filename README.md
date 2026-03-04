@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### About me
-I'm Junior Fullstack Developer. 
+#### About me
+Early-career Fullstack developer with a backend focus.
+Currently building and learning with Node.js, Express, MongoDB, React, and Next.js.
 
 #### My tech stack
 Backend:
@@ -26,6 +27,12 @@ React • Next.js • HTML • CSS
 
 Tools:
 Git • GitHub • Swagger • Postman
+
+#### Contacts
+LinkedIn: https://www.linkedin.com/in/natalie-tkachenko-/
+Telegram: @Natalie_Tkachenko
+Email:    tkachenko.nataliya83@gmail.com
+
 
 
 
