@@ -56,21 +56,12 @@ Git • GitHub • Swagger • Postman
   </tr>
 </table>
 
-#### My stats
 
+#### GitHub Stats
 <a href="https://u8views.com/github/NatalieTkachenko"><img src="https://u8views.com/api/v1/github/profiles/98707407/views/day-week-month-total-count.svg"></a>
-
-
-### GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalieTkachenko&show_icons=true&theme=default)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieTkachenko&layout=compact)
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=NatalieTkachenko)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalieTkachenko&show_icons=true)
 
