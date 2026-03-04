@@ -72,5 +72,5 @@ Git • GitHub • Swagger • Postman
 ![GitHub Streak](https://streak-stats.demolab.com?user=NatalieTkachenko)
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalieTkachenko&show_icons=true)
 
