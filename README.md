@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 #### About me
 Early-career Fullstack developer with a backend focus.
 Currently building and learning with Node.js, Express, MongoDB, React, and Next.js.
+I want to do things that make sense and bring value.
 
 #### My tech stack
 Backend:
