@@ -18,11 +18,14 @@ Here are some ideas to get you started:
 I'm Junior Fullstack Developer. 
 
 #### My tech stack
-- Node.js
-- React
-- Next.js
+Backend:
+Node.js • Express • MongoDB • REST API
 
-# Tools
-Git, Postman, Swagger
+Frontend:
+React • Next.js • HTML • CSS
+
+Tools:
+Git • GitHub • Swagger • Postman
+
 
 
