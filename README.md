@@ -56,7 +56,7 @@ Git • GitHub • Swagger • Postman
   </tr>
 </table>
 
-## My stats
+#### My stats
 
 <a href="https://u8views.com/github/NatalieTkachenko"><img src="https://u8views.com/api/v1/github/profiles/98707407/views/day-week-month-total-count.svg"></a>
 
