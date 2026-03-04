@@ -38,7 +38,7 @@ Git • GitHub • Swagger • Postman
     <td><b>LinkedIn</b></td>
     <td>
       <a href="https://www.linkedin.com/in/natalie-tkachenko-/">
-        linkedin.com/in/yourprofile
+        https://www.linkedin.com/in/natalie-tkachenko-/
       </a>
     </td>
   </tr>
