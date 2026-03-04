@@ -28,6 +28,10 @@ React • Next.js • HTML • CSS
 Tools:
 Git • GitHub • Swagger • Postman
 
+#### Projects
+
+ - Leleka - API for pregnancy tracker
+
 #### Contacts
 <table>
   <tr>
