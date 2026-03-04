@@ -35,21 +35,27 @@ Email:    tkachenko.nataliya83@gmail.com
 
 <table>
   <tr>
-    <td align="center">
-      <b>LinkedIn</b><br>
-      <a href="https://linkedin.com/in/yourprofile">Nataliia Tkachenko</a>
+    <td><b>LinkedIn</b></td>
+    <td>
+      <a href="https://linkedin.com/in/yourprofile">
+        linkedin.com/in/yourprofile
+      </a>
     </td>
   </tr>
+
   <tr>
-    <td align="center">
-      <b>Email</b><br>
+    <td><b>Telegram</b></td>
+    <td>
+      <a href="https://t.me/yourusername">
+        @yourusername
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Email</b></td>
+    <td>
       your.email@gmail.com
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>GitHub</b><br>
-      <a href="https://github.com/NatalieTkachenko">@NatalieTkachenko</a>
     </td>
   </tr>
 </table>
