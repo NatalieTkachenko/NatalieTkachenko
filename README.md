@@ -14,5 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About me
+I'm Junior Fullstack Developer. 
+
+## My tech stack
+- Node.js
+- React
+- Next.js
+
+## Tools
+Git, Postman, Swagger
 
 
